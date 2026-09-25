@@ -1,0 +1,6 @@
+{
+  "name": "DURJOY COMMAND CENTER",
+  "description": "Premium modern personal operating dashboard for tasks, focus timer, projects, trading journal, and daily goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
